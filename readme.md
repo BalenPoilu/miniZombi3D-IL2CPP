@@ -17,7 +17,7 @@ Now we finish to compil the code to use it, its time to inject sooo
 Use an injector ! (I use : [system informer](https://systeminformer.com))
 
 ## IG scren
-![mscv releasex64](./images/ig_cash "t")
+![mscv releasex64](./images/ig_cash.png "t")
 
 ### IF GAME IS UPDATED:
 download [ILCPPINSPECTOR](https://github.com/LukeFZ/Il2CppInspectorRedux)
